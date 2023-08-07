@@ -1,5 +1,5 @@
 {
-    "name": "ruflin/elastica",
+    "name": "qlsgroup/elastica",
     "description": "Elasticsearch Client",
     "keywords": ["search","client"],
     "homepage": "http://elastica.io/",
